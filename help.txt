@@ -1,0 +1,11 @@
+如何啟動機器人:
+1.打開config.json
+    prefix:你的前綴
+    owner:擁有者id
+    token:機器人token
+2.安裝套件:
+    discord和random
+3.啟動bot.py即可
+
+
+可使用opdlt來強制端開連接
