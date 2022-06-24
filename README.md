@@ -3,3 +3,5 @@
 ---
 **若後臺有任何報錯請不用理會**
       </br>如果你沒有自己的機器人也歡迎使用 https://discord.com/api/oauth2/authorize?client_id=981382960030842880&permissions=8&scope=bot
+</br></br>
+![使用授權](/cc.png)
